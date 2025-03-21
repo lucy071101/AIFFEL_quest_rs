@@ -33,8 +33,8 @@ AIFFEL_quest_rs
 │  │  └─.ipynb
 │  │          
 │  └─Ex07
-│  │  │  README.md
-│  │  └─.ipynb
+│     │  README.md
+│     └─.ipynb
 │              
 ├─GoingDeeper
 │  ├─Deep0102
@@ -70,8 +70,8 @@ AIFFEL_quest_rs
 │  │  └─.ipynb
 │  │          
 │  └─Deep1718
-│  │  │  README.md
-│  │  └─.ipynb
+│     │  README.md
+│     └─.ipynb
 │              
 └─MainQuest
     ├─Quest01
