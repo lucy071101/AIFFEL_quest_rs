@@ -10,151 +10,87 @@ AIFFEL_quest_rs
 ├─Exploration
 │  ├─Ex01
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  ├─Ex02
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  ├─Ex03
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  ├─Ex04
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  ├─Ex05
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  ├─Ex06
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  └─Ex07
-│      │  README.md
-│      │  Untitled.ipynb
-│      │  
-│      └─.ipynb_checkpoints
-│              Untitled-checkpoint.ipynb
+│  │  │  README.md
+│  │  └─.ipynb
 │              
 ├─GoingDeeper
 │  ├─Deep0102
-│  │  │  .ipynb
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  ├─Deep0304
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  ├─Deep0506
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  ├─Deep0708
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  ├─Deep0910
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  ├─Deep1112
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  ├─Deep1314
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  ├─Deep1516
 │  │  │  README.md
-│  │  │  Untitled.ipynb
-│  │  │  
-│  │  └─.ipynb_checkpoints
-│  │          Untitled-checkpoint.ipynb
+│  │  └─.ipynb
 │  │          
 │  └─Deep1718
-│      │  README.md
-│      │  Untitled.ipynb
-│      │  
-│      └─.ipynb_checkpoints
-│              Untitled-checkpoint.ipynb
+│  │  │  README.md
+│  │  └─.ipynb
 │              
 └─MainQuest
     ├─Quest01
     │  │  README.md
-    │  │  Untitled.ipynb
-    │  │  
-    │  └─.ipynb_checkpoints
-    │          Untitled-checkpoint.ipynb
+    │  └─.ipynb
     │          
     ├─Quest02
     │  │  README.md
-    │  │  Untitled.ipynb
-    │  │  
-    │  └─.ipynb_checkpoints
-    │          Untitled-checkpoint.ipynb
+    │  └─.ipynb
     │          
     ├─Quest03
     │  │  README.md
-    │  │  Untitled.ipynb
-    │  │  
-    │  └─.ipynb_checkpoints
-    │          Untitled-checkpoint.ipynb
+    │  └─.ipynb
     │          
     ├─Quest04
     │  │  README.md
-    │  │  Untitled.ipynb
-    │  │  
-    │  └─.ipynb_checkpoints
-    │          Untitled-checkpoint.ipynb
+    │  └─.ipynb
     │          
     └─Quest05
-        │  README.md
-        │  Untitled.ipynb
-        │  
-        └─.ipynb_checkpoints
-                Untitled-checkpoint.ipynb
+    │  │  README.md
+    │  └─.ipynb
 ```
