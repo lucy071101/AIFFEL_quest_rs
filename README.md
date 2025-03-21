@@ -2,59 +2,60 @@
 - AIFFEL 과정 중 진행하는 프로젝트, 피어리뷰를 관리하는 Repository입니다.  
 - 기본적인 틀을 제공하며, 파일이나 폴더를 수정/업로드하여 사용합니다.
 ---
-AIFFEL_quest_rs  
-│  README.md  
-│    
-├─Exploration  
-│  ├─Ex01  
-│  │  │  README.md  
-│  │  │  Untitled.ipynb  
-│  │  │    
-│  │  └─.ipynb_checkpoints  
-│  │          Untitled-checkpoint.ipynb  
-│  │            
-│  ├─Ex02  
-│  │  │  README.md  
-│  │  │  Untitled.ipynb  
-│  │  │    
-│  │  └─.ipynb_checkpoints  
-│  │          Untitled-checkpoint.ipynb  
-│  │            
-│  ├─Ex03  
-│  │  │  README.md  
-│  │  │  Untitled.ipynb  
-│  │  │    
-│  │  └─.ipynb_checkpoints  
-│  │          Untitled-checkpoint.ipynb  
-│  │            
-│  ├─Ex04  
-│  │  │  README.md  
-│  │  │  Untitled.ipynb  
-│  │  │    
-│  │  └─.ipynb_checkpoints  
-│  │          Untitled-checkpoint.ipynb  
-│  │            
-│  ├─Ex05  
-│  │  │  README.md  
-│  │  │  Untitled.ipynb  
-│  │  │    
-│  │  └─.ipynb_checkpoints  
-│  │          Untitled-checkpoint.ipynb  
-│  │            
-│  ├─Ex06  
-│  │  │  README.md  
-│  │  │  Untitled.ipynb  
-│  │  │    
-│  │  └─.ipynb_checkpoints  
-│  │          Untitled-checkpoint.ipynb  
-│  │            
-│  └─Ex07  
-│      │  README.md  
-│      │  Untitled.ipynb  
-│      │    
-│      └─.ipynb_checkpoints  
-│              Untitled-checkpoint.ipynb  
-│                
+```
+C:.
+│  README.md
+│  
+├─Exploration
+│  ├─Ex01
+│  │  │  README.md
+│  │  │  Untitled.ipynb
+│  │  │  
+│  │  └─.ipynb_checkpoints
+│  │          Untitled-checkpoint.ipynb
+│  │          
+│  ├─Ex02
+│  │  │  README.md
+│  │  │  Untitled.ipynb
+│  │  │  
+│  │  └─.ipynb_checkpoints
+│  │          Untitled-checkpoint.ipynb
+│  │          
+│  ├─Ex03
+│  │  │  README.md
+│  │  │  Untitled.ipynb
+│  │  │  
+│  │  └─.ipynb_checkpoints
+│  │          Untitled-checkpoint.ipynb
+│  │          
+│  ├─Ex04
+│  │  │  README.md
+│  │  │  Untitled.ipynb
+│  │  │  
+│  │  └─.ipynb_checkpoints
+│  │          Untitled-checkpoint.ipynb
+│  │          
+│  ├─Ex05
+│  │  │  README.md
+│  │  │  Untitled.ipynb
+│  │  │  
+│  │  └─.ipynb_checkpoints
+│  │          Untitled-checkpoint.ipynb
+│  │          
+│  ├─Ex06
+│  │  │  README.md
+│  │  │  Untitled.ipynb
+│  │  │  
+│  │  └─.ipynb_checkpoints
+│  │          Untitled-checkpoint.ipynb
+│  │          
+│  └─Ex07
+│      │  README.md
+│      │  Untitled.ipynb
+│      │  
+│      └─.ipynb_checkpoints
+│              Untitled-checkpoint.ipynb
+│              
 ├─GoingDeeper
 │  ├─Deep0102
 │  │  │  .ipynb
@@ -155,4 +156,4 @@ AIFFEL_quest_rs
         │  
         └─.ipynb_checkpoints
                 Untitled-checkpoint.ipynb
-                
+```
