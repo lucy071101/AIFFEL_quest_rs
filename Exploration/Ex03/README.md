@@ -4,6 +4,7 @@
 
 
 # PRT(Peer Review Template)
+[image1](image1.jpg)
 - [ O ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
         - 코 위치를 이용하였고 스티커의 좌상단 x,y 좌표를 적절하게 작성하였습니다.
         [image1](image1.jpg)
