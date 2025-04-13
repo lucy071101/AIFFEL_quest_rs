@@ -1,0 +1,4 @@
+~/aiffel/AIFFEL_quest_rs/Exploration/Ex04/models/deeplabv3_xception_tf_dim_ordering_tf_kernels.h5 filter=lfs diff=lfs merge=lfs -text
+Exploration/Ex04/models/deeplabv3_xception_tf_dim_ordering_tf_kernels.h5 filter=lfs diff=lfs merge=lfs -text
+/aiffel/aiffel/AIFFEL_quest_rs/Exploration/Ex04/models/deeplabv3_xception_tf_dim_ordering_tf_kernels.h5 filter=lfs diff=lfs merge=lfs -text
+/aiffel/AIFFEL_quest_rs/Exploration/Ex04/models/deeplabv3_xception_tf_dim_ordering_tf_kernels.h5 filter=lfs diff=lfs merge=lfs -text
